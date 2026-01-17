@@ -1,0 +1,8 @@
+[
+  {
+    "name": "vote",
+    "type": "function",
+    "inputs": [{ "name": "option", "type": "uint256" }],
+    "outputs": []
+  }
+]
